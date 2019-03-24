@@ -1,7 +1,7 @@
 # DISCLAIMER
 This website is for educational purposes only and does not actually book tickets. While the index.html page does retrieve accurate upto date movie times and theaters, please DO NOT enter any personal information in the booking page. It is for demonstration only.
 
-#Project
+# Project
 Movie-Search
 
 ## Contributors
