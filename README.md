@@ -1,8 +1,8 @@
 # DISCLAIMER
 This website is for educational purposes only and does not actually book tickets. While the index.html page does retrieve accurate upto date movie times and theaters, please DO NOT enter any personal information in the booking page. It is for demonstration only.
 
-# Group Project
-First group project utilizing 2 API's and one library not taught in class.
+#Project
+Movie-Search
 
 ## Contributors
 team6
@@ -12,7 +12,7 @@ team6
 
 ## Technology
 * HTML5, CSS, JavaScript, Bootstrap, jQuery, Gracenote API, GoogleMaps API, Firebase, jQuery Validate
-* Live demo:  https://boogeybum.github.io/team6/
+* Live demo:  https://boogeybum.github.io/Movie-Search/
 * Original team Demo: https://rls5113.github.io/team6/
 
 
