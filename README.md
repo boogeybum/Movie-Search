@@ -25,6 +25,7 @@ team6
 
 * As a user I would like to be able to see a list of movie theater showtimes nearby based on my input search criteria and be able to conveniently purchase tickets online. (Do not to enter personal data in the booking page. It is for demonstration purposes only and saves any input information on Firebase.)
 
+<img src="assets/images/MovieSchedule_Screenshot.JPG" >
 
 ## License 
 * No license explicite or implied.
